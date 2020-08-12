@@ -10,4 +10,6 @@
 - 📫 How to reach me: khaledtsu@gmail.com
 - ⚡ Fun fact: Get some Koi fish and your code will be clean 🔥.
 
+***
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bangaflow&show_icons=true&theme=vue)
