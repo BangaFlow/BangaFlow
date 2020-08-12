@@ -1,6 +1,6 @@
 ### The ninja web road 🍂
 
-Here are some ideas to get you started:
+<img src='./kabuki.png' align='left' />
 
 - 🔭 I’m currently working on a private MERN project (Internship @TunisianCloud).
 - 🌱 I’m currently learning react with typescript.
