@@ -1,6 +1,6 @@
 ## JavaScript Developer
 
-<img src="https://github.com/BangaFlow/BangaFlow/blob/master/images/koi_fish.png" align="right" width="256" height="256"/>
+<img src="https://github.com/BangaFlow/BangaFlow/blob/master/images/koi_fish.png" align="right" width="296" height="396"/>
 
 <br/>
 
