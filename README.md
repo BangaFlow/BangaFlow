@@ -2,7 +2,7 @@
 
 <img src="kabuki.png"
      alt="Markdown Monster icon"
-     style="float: right; margin-left: 10px;" />
+     align='right' />
 
 
 
