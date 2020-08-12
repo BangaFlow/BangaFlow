@@ -1,6 +1,6 @@
 ## ⨠ Web Ninja 🐱‍👤
 
-<img src="https://github.com/BangaFlow/BangaFlow/blob/master/images/sowrd.png" align="right" width="256" height="256"/>
+<img src="https://github.com/BangaFlow/BangaFlow/blob/master/images/sowrd1.png" align="right" width="256" height="256"/>
 
 ```diff
 - My javascript will slash you into pieces!
