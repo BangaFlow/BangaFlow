@@ -11,4 +11,4 @@
 - 🤔 I’m looking for help with **Architecture Design**.
 - 📫 How to reach me: khaledtsu@gmail.com
 - 😄 Pronouns: `He/Him`
-- ⚡ Fun fact: I am from Tunisia, a country in North Africa.
+- ⚡ Fun fact: Get some Koi fish and your profile will lit 🔥.
