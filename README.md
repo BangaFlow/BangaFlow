@@ -1,6 +1,8 @@
 ### The ninja web road 🍂
 
-<img height='250' width=250' src='./kabuki.png' align='right' />
+<img src="kabuki.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 
 
