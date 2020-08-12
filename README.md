@@ -2,9 +2,7 @@
 
 <img src="https://github.com/BangaFlow/BangaFlow/blob/master/images/koi_fish.png" align="right" width="256" height="256"/>
 
-```diff
-- My javascript will slash you into pieces!
-```
+<br/>
 
 - 🔭 I’m currently working on a private **MERN** project (Internship *@TunisianCloud*).
 - 🌱 I’m currently learning **React** with **TypeScript**.
