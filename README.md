@@ -6,11 +6,6 @@
 
 ---
 
-<br/>
-
-
-
-
 - 🔭 I’m currently working on a private MERN project (Internship @TunisianCloud).
 - 🌱 I’m currently learning react with typescript.
 - 🤔 I’m looking for help with Architecture Design.
