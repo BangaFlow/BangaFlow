@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on an intership private project.
+- 🔭 I’m currently working on a private MERN project (Internship @TunisianCloud).
 - 🌱 I’m currently learning react with typescript.
 - 🤔 I’m looking for help with Architecture Design.
 - 💬 Ask me about Ninja.
