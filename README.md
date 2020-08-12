@@ -11,4 +11,4 @@
 
 ***
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bangaflow&show_icons=true&theme=vue)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bangaflow&show_icons=true&theme=nord)
