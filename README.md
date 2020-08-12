@@ -1,8 +1,12 @@
 ### The ninja web road 🍂
 
-<img src="kabuki.png" align="right" width="256" height="256"/>
+<img src="images/kabuki.png" align="right" width="256" height="256"/>
 
+***
 
+---
+
+<br/>
 
 
 
