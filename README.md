@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on a private **MERN** project (Internship *@TunisianCloud*).
 - 🌱 I’m currently learning **React** with **TypeScript**.
 - 🤔 I’m looking for help with **Architecture Design**.
-- 📫 How to reach me: khaledtsu@gmail.com
 - ⚡ Fun fact: Get some Koi fish and your code will be clean 🔥.
 
 ***
