@@ -10,5 +10,5 @@
 - 🌱 I’m currently learning **React** with **TypeScript**.
 - 🤔 I’m looking for help with **Architecture Design**.
 - 📫 How to reach me: khaledtsu@gmail.com
-- 😄 Pronouns: `He / Him`
+- 😄 Pronouns: `He/Him`
 - ⚡ Fun fact: I am from Tunisia, a country in North Africa.
