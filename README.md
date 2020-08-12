@@ -1,6 +1,6 @@
 ### The ninja web road 🍂
 
-<img src="BangaFlow/images/kabuki.png" align="right" width="256" height="256"/>
+<img src="https://github.com/BangaFlow/BangaFlow/blob/master/images/kabuki.png" align="right" width="256" height="256"/>
 
 ***
 
