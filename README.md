@@ -3,7 +3,7 @@
 <img src="https://github.com/BangaFlow/BangaFlow/blob/master/images/kabuki.png" align="right" width="256" height="256"/>
 
 ```diff
-! My javascript will slash you into pieces!
+- My javascript will slash you into pieces!
 ```
 
 - 🔭 I’m currently working on a private **MERN** project (Internship *@TunisianCloud*).
