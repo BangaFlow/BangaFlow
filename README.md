@@ -4,7 +4,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on a private **MERN** project (Internship *@TunisianCloud*).
+- 🔭 I’m currently working on a **MERN** project (Internship *@TunisianCloud*).
 - 🌱 I’m currently learning **React** with **TypeScript**.
 - 🤔 I’m looking for help with **Architecture Design**.
 - ⚡ Fun fact: Get some Koi fishs and your code will get cleaner 🔥.
