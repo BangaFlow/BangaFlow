@@ -5,7 +5,7 @@
 <br/>
 
 - 🔭 I’m currently looking for **Internship**/**Final Year Student**.
-- 🌱 I’m currently learning **Linting & transpiling** JavaScript.
+- 🌱 I’m currently learning **transpiling**: **Babel.js**.
 - 🤔 I’m looking for help with **Architecture Design**.
 - ⚡ Fun fact: Get some Koi fishs and your code will get cleaner 🔥.
 
