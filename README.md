@@ -1,13 +1,11 @@
 ## JavaScript Developer
 
-<img src="https://github.com/BangaFlow/BangaFlow/blob/master/images/koi_fish.png" align="right" width="296" height="386"/>
-
 <br/>
 
-- 🔭 I’m currently looking for **Internship**/**Final Year Student**.
-- 🌱 I’m currently learning **Testing** & **Automation(CI tools)**.
+- 🔭 I’m currently looking for **Job**.
+- 🌱 I’m currently intrested in **Testing** & **Automation(CI tools)**.
 - 🤔 I’m looking for help with **Architecture Design**.
-- ⚡ Fun fact: Get some Koi fishs and your code will get cleaner 🔥.
+- ⚡ Fun fact: You want clean and organized code? Organize your life first 🔥.
 
 ***
 
