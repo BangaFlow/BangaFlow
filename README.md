@@ -2,8 +2,8 @@
 
 <br/>
 
-- 💻  I’m currently doing an internship with **MEDISinn Platform GmbH** as Full Stack Software Engineer.
-- 🔭  I’m currently looking for **Junior position**.
+- 💻  I’m currently working with **MEDISinn Platform GmbH** as Full Stack Software Engineer.
+- 🔭  I’m currently looking for **New Oppertunities**.
 - 🌱  I’m currently intrested in **Testing** & **Automation(CI tools)**.
 
 ***
