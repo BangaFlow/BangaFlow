@@ -4,7 +4,6 @@
 
 - 💻  I’m currently working with **MEDISinn Plattform GmbH** as Junior Software Engineer.
 - 🔭  I’m currently looking for **New Oppertunities**.
-- 🌱  I’m currently intrested in **Testing** & **Automation(CI tools)**.
 
 ***
 
