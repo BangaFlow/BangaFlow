@@ -2,7 +2,7 @@
 
 <br/>
 
-- 💻  I’m currently working with **MEDISinn Plattform GmbH** as Junior Software Engineer.
+- 💻  I’m currently working with **MEDISinn Plattform GmbH** as Fullstack Software Engineer.
 - 🔭  I’m currently looking for **New Oppertunities**.
 
 ***
